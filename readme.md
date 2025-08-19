@@ -77,11 +77,15 @@ O terminal é limpo entre as interações para melhorar a experiência do usuár
 A API utilizada pode ter limite de requisições por dia na versão gratuita.
 
 ---
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar.
+
 ### 📄 Licença
+
+Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar.
+
 ---
 
 ### LinkedIn
 
 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/bruno-rodrigues-923a61155)
+
 
