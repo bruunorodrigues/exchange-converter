@@ -1,4 +1,4 @@
-💱 Conversor de Moedas (Currency Converter)
+**💱 Conversor de Moedas (Currency Converter)**
 
 Este é um aplicativo de conversão de moedas simples desenvolvido em Python. Ele permite converter valores entre diferentes moedas, utilizando uma API de taxas de câmbio atualizadas em tempo real.
 
@@ -60,7 +60,7 @@ Digite o valor a ser convertido.
 
 ---
 
-✅ Exemplo de uso
+✅ Licença
 
 Which is your exchange rate (ex: USD, BRL, EUR, etc)? USD
 Which exchange rate do you want to convert to (ex: USD, BRL, EUR, etc)? BRL
@@ -87,5 +87,6 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e com
 ### LinkedIn
 
 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/bruno-rodrigues-923a61155)
+
 
 
