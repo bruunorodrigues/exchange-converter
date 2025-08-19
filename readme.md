@@ -4,7 +4,7 @@ Este é um aplicativo de conversão de moedas simples desenvolvido em Python. El
 
 ---
 
-📌 Funcionalidades
+📌 **Funcionalidades**
 
 Conversão entre moedas como USD, EUR, BRL, etc.
 
@@ -14,7 +14,7 @@ Busca de taxas de câmbio em tempo real usando a API pública ExchangeRate-API
 
 ---
 
-🧰 Tecnologias utilizadas
+**🧰 Tecnologias utilizadas**
 
 Python 3.
 
@@ -24,7 +24,7 @@ API pública de câmbio: https://api.exchangerate-api.com
 
 ---
 
-🗂️ Estrutura do Projeto
+**🗂️ Estrutura do Projeto**
 .
 ├── app.py              # Script principal da aplicação
 ├── validation.py       # Função para validação do valor inserido
@@ -32,7 +32,7 @@ API pública de câmbio: https://api.exchangerate-api.com
 
 ---
 
-▶️ Como usar
+**▶️ Como usar**
 
 Clone o repositório:
 
@@ -60,7 +60,7 @@ Digite o valor a ser convertido.
 
 ---
 
-✅ Licença
+**✅ Exemplo de uso**
 
 Which is your exchange rate (ex: USD, BRL, EUR, etc)? USD
 Which exchange rate do you want to convert to (ex: USD, BRL, EUR, etc)? BRL
@@ -70,7 +70,7 @@ Enter the amount you want to convert: 10
 
 ---
 
-⚠️ Observações
+**⚠️ Observações**
 
 O terminal é limpo entre as interações para melhorar a experiência do usuário (uso de os.system('cls'), compatível com Windows).
 
@@ -87,6 +87,7 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e com
 ### LinkedIn
 
 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/bruno-rodrigues-923a61155)
+
 
 
 
