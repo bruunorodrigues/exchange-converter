@@ -61,6 +61,7 @@ Digite o valor a ser convertido.
 ---
 
 ✅ Exemplo de uso
+
 Which is your exchange rate (ex: USD, BRL, EUR, etc)? USD
 Which exchange rate do you want to convert to (ex: USD, BRL, EUR, etc)? BRL
 Enter the amount you want to convert: 10
@@ -85,4 +86,3 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e com
 ### LinkedIn
 
 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/bruno-rodrigues-923a61155)
-
