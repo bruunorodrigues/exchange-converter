@@ -9,7 +9,7 @@ Este é um simples conversor de moedas feito em Python que permite a conversão 
 - **Validação de Entrada**: O código inclui validações para garantir que o valor e as moedas inseridas sejam válidos.
 - **Limpeza de Tela**: O programa limpa a tela a cada nova entrada ou erro para melhorar a experiência do usuário.
 
-## Tecnologias Utilizadas
+## 🚀 Tecnologias Usadas
 
 - **Python 3**: A linguagem de programação utilizada.
 - **requests**: Para realizar requisições HTTP à API de taxas de câmbio.
@@ -20,7 +20,7 @@ Este é um simples conversor de moedas feito em Python que permite a conversão 
 - **`app.py`**: O arquivo principal que executa a lógica de conversão de moeda.
 - **`validation.py`**: Contém a função `valid_value` para validar o valor inserido pelo usuário.
 
-## Como Usar
+## ⚙️ Como usar
 
 Passo 1. Clone este repositório para a sua máquina;
 
@@ -45,6 +45,7 @@ Passo 5. O resultado será exibido com o valor convertido de acordo com as taxas
 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/bruno-rodrigues-923a61155)
 
    
+
 
 
 
