@@ -1,93 +1,101 @@
-**💱 Conversor de Moedas (Currency Converter)**
+# 💱 Conversor de Moedas (Currency Converter)
 
-Este é um aplicativo de conversão de moedas simples desenvolvido em Python. Ele permite converter valores entre diferentes moedas, utilizando uma API de taxas de câmbio atualizadas em tempo real.
-
----
-
-📌 **Funcionalidades**
-
-Conversão entre moedas como USD, EUR, BRL, etc.
-
-Validação de entrada do usuário (moeda e valor).
-
-Busca de taxas de câmbio em tempo real usando a API pública ExchangeRate-API
+Um **conversor de moedas** simples feito em Python que permite converter valores entre diferentes moedas usando **taxas de câmbio em tempo real** da API [ExchangeRate API](https://www.exchangerate-api.com/).  
 
 ---
 
-**🧰 Tecnologias utilizadas**
+## 📌 Funcionalidades
 
-Python 3.
-
-Biblioteca requests
-
-API pública de câmbio: https://api.exchangerate-api.com
-
----
-
-**🗂️ Estrutura do Projeto**
-.
-├── app.py              # Script principal da aplicação
-├── validation.py       # Função para validação do valor inserido
-└── README.md           # Este arquivo
+- Consulta taxas de câmbio atualizadas.
+- Conversão entre qualquer par de moedas suportadas.
+- Validação de valores digitados pelo usuário (apenas números positivos).
+- Interface limpa no terminal, com atualizações automáticas.
+- Mensagens de erro amigáveis para moedas ou valores inválidos.
 
 ---
 
-**▶️ Como usar**
+🧰 Tecnologias utilizadas
 
-Clone o repositório:
+-Python 3.
+-Biblioteca requests
+-API pública de câmbio: https://api.exchangerate-api.com
 
-git clone https://github.com/seu-usuario/conversor-moedas.git
-cd conversor-moedas
+## 🔹 Estrutura do Projeto
 
+```
+currency-converter/
+│
+├── app.py           # Script principal do conversor
+├── validation.py    # Função para validar valores de entrada
+└── README.md        # Este arquivo
+```
+---
 
-Instale as dependências:
+## ▶️ Como usar
 
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/currency-converter.git
+```
+
+2. Entre na pasta do projeto:
+
+```bash
+cd currency-converter
+```
+
+3. Instale as dependências:
+
+```bash
 pip install requests
-
-
-Execute o programa:
-
-python app.py
-
-
-Siga as instruções no terminal:
-
-Insira o código da moeda de origem (ex: USD, BRL, EUR).
-
-Insira o código da moeda de destino.
-
-Digite o valor a ser convertido.
+```
 
 ---
 
-**✅ Exemplo de uso**
+## ▶️ Como Executar
 
+Execute o programa no terminal:
+
+```bash
+python app.py
+```
+
+Siga as instruções:
+
+1. Digite a moeda de origem (ex: `USD`, `BRL`, `EUR`).
+2. Digite a moeda de destino.
+3. Digite o valor que deseja converter.
+
+O resultado será exibido no terminal formatado com duas casas decimais.
+
+---
+
+## ✅ Exemplo de uso
+
+```
 Which is your exchange rate (ex: USD, BRL, EUR, etc)? USD
 Which exchange rate do you want to convert to (ex: USD, BRL, EUR, etc)? BRL
-Enter the amount you want to convert: 10
+Enter the amount you want to convert: 100
+
 === Currency Converter ===
-10.0 USD = 55.23 BRL
+100 USD = 514.50 BRL
+```
+
+## 🔹 API
+
+- **ExchangeRate API**: [https://www.exchangerate-api.com/](https://www.exchangerate-api.com/)
+- Sem necessidade de chave para uso básico.
+- Fornece taxas de câmbio de mais de 160 moedas.
 
 ---
 
-**⚠️ Observações**
+## 📄 Licença
 
-O terminal é limpo entre as interações para melhorar a experiência do usuário (uso de os.system('cls'), compatível com Windows).
-
-A API utilizada pode ter limite de requisições por dia na versão gratuita.
+Projeto livre para estudo e modificações.
 
 ---
 
-### 📄 Licença
+## LinkedIn
 
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar.
-
----
-
-### LinkedIn
-
-🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/bruno-rodrigues-923a61155)
-
-
-
-
+Conecte-se comigo no: [Bruno Rodrigues](https://www.linkedin.com/in/bruno-rodrigues-923a61155)
