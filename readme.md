@@ -39,4 +39,10 @@ Passo 5. O resultado será exibido com o valor convertido de acordo com as taxas
 
    ```bash
    pip install requests
+LinkedIn
+
+🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/bruno-rodrigues-923a61155)
+
+   
+
 
