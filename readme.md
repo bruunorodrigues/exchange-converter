@@ -98,4 +98,5 @@ Projeto livre para estudo e modificações.
 
 ## LinkedIn
 
-Conecte-se comigo no: [Bruno Rodrigues](https://www.linkedin.com/in/bruno-rodrigues-923a61155)
+🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/bruno-rodrigues-923a61155)
+
